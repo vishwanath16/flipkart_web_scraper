@@ -1,6 +1,6 @@
 # flipkart_web_scraper
-This python script will scrape the details about mobiles which are under 30k price range the details include product_name, ratings, and specs.
-After scraping the details the information will be exported to csv file.
+This python script will scrape the details about mobiles which are under 30k price range, the details include product_name, ratings, and specs.
+After scraping the details the information will be exported to the csv file.
 
 
 Requirements:
